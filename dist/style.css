@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    padding: 2rem;
+    background: orange;
+  }
+  h5 {
+    padding: 1rem;
+    background: dodgerblue;
+    color: #fff;
+    font-size: 1rem;
+  }
+  .wrapper {
+    width: 70%;
+    margin: 3rem auto;
+  }
+  
+  .wrapper > div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  article {
+    background: #efeded;
+    padding-bottom: 0.2rem;
+  }
+  ul {
+    background: #fff;
+    width: 90%;
+    margin: 1rem auto;
+  }
+  li {
+    list-style-type: none;
+    line-height: 2;
+    border: 1px solid #e0d8d8;
+    border-radius: 4px;
+    padding: 0.7rem;
+  }
+  
