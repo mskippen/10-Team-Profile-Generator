@@ -115,9 +115,9 @@ function appendHtml(member) {
             <h5 >${name}</h5>
             <h5 ><span><i class="fas fa-user-graduate"></i></span> Intern</h5>
             <ul>
-                <li>ID ${id}</li>
-                <li>Email Address ${email}</li>
-                <li>School ${school}</li>
+                <li>ID: ${id}</li>
+                <li>Email Address: ${email}</li>
+                <li>School: ${school}</li>
             </ul>
             </article>
         `;
@@ -126,11 +126,11 @@ function appendHtml(member) {
     data = `
             <article>
             <h5 >${name}</h5>
-            <h5 ><span><i class="fas fa-glasses"></i></span>Engineer</h5>
+            <h5 ><span><i class="fas fa-glasses"></i></span> Engineer</h5>
             <ul>
-                <li>ID ${id}</li>
-                <li>GitHub ${gitHub}</li>
-                <li>Email Address ${email}</li>
+                <li>ID: ${id}</li>
+                <li>GitHub: ${gitHub}</li>
+                <li>Email Address: ${email}</li>
             </ul>
             </article>
         `;

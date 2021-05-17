@@ -1,9 +1,5 @@
 # Team Profile Generator
 
-## Licensing
-
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
-
 ## Table of Contents
 
 - [Description](#description)
@@ -15,7 +11,7 @@
 
 ![Professional Team Profile Generator image](./screenshot.JPG)
 
-The full movie file showing functionality of the application can be found here through google drive: (<https://drive.google.com/drive/folders/1DK-jguR8tI7MdttriiKOIqJm2RFrNELw?usp=sharing>)
+The full movie file showing functionality of the application can be found here through google drive: (<https://drive.google.com/drive/folders/1wp41V0Rj913ck13-aHWsZjAFeJ2akaKg?usp=sharing>)
 
 ## Description
 
